@@ -1,0 +1,25 @@
+{
+  "name": "base-bot-discord-js-v14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord-api-types": "^0.37.83",
+    "discord.js": "^14.15.3",
+    "fast-deep-equal": "^3.1.3",
+    "figlet": "^1.7.0",
+    "lodash": "^4.17.21",
+    "lodash.snakecase": "^4.1.1",
+    "magic-bytes.js": "^1.10.0",
+    "ts-mixer": "^6.0.4",
+    "tslib": "^2.6.2",
+    "undici": "^6.13.0",
+    "ws": "^8.17.0"
+  },
+  "scripts": {
+    "test": "node index.js
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
